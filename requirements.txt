@@ -1,4 +1,3 @@
+pybit
 python-dotenv
 requests
-websocket-client
-pybit
